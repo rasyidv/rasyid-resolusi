@@ -1,0 +1,8 @@
+RENCANA KONTEN RASYID
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
